@@ -1,0 +1,19 @@
+= EMT Madrid Bot for Telegram =
+
+This is your bot for telegram that offers you the closests bus stop based on
+your location.
+
+Also, you can query from your telegram client the upcoming buses given a bus
+stop number.
+
+
+use `config.json` for your telegram bot api key
+
+use `config_emt.json` for your EMT API Keys
+
+Build the dockerfile or 
+
+install the `requirements.txt` and Execute `python3 test.py`.
+
+Enjoy
+
